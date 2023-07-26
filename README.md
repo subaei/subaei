@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subaei
-- 👀 I’m interested in PHP, LARAVEL & FULTTER
+- 👀 I’m interested in PHP, LARAVEL, React Native and Next js
 - 🌱 I’m currently learning Mobile Apps
 - 💞️ I’m looking to collaborate on PHP, LARAVEL & FULTTER
 - 📫 How to reach me ...
